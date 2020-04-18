@@ -4,6 +4,7 @@ int main()
 {
 
 int n,s,i,j,temp;
+	
 printf("Enter the size of array\n");
 scanf("%d",&n);
 char arr[n];
